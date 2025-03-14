@@ -9,3 +9,6 @@ How to create account in Github.
 How to create repository.
 How to add file and write content.
 Thank you for visiting my repository.
+#Learning Github branches
+I just created a new branch called new feature
+Now i am editing my Readme file inside this branch
